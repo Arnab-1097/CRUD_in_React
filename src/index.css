@@ -1,0 +1,28 @@
+body {
+  margin: 10px 10px 10px 10px;
+  background-color:black
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.x {
+  padding-bottom: 6px;
+}
+
+
+.y{
+  width:400px;
+}
+
+.i{
+  text-align: center;
+}
+ 
+.z{
+  margin-left: 636px;
+}
